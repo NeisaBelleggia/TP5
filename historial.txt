@@ -1,0 +1,140 @@
+
+  195  tar -xvf TP5.tar
+  196  clear
+  197  tar -xvf TP5.tar
+  198  tar -xvf TP5.tar.gz
+  199  tar -xvf TP5.tar
+  200  tar -xvf TP5.TAR
+  201  cd bash_tutorial-utn
+  202  clear
+  203  cd ejercicio1
+  204  cd ejercicio 1
+  205  clear
+  206  cd tar
+  207  clear
+  208  cd ejercicios/ejercicio_1
+  209  cd
+  210  clear
+  211  cdclear
+  212  clear
+  213  TP5.TAR
+  214  CLEAR
+  215  clear
+  216  cd TP5.TAR
+  217  cd ejercicios/
+  218  clear
+  219  cd ejercicio_1
+  220  cd carpetaA
+  221  cd talvez_aca/
+  222  cd ejercicio_2
+  223  clear
+  224  ls
+  225  clear
+  226  cd ejercicios/ejercicio_1
+  227  cd carpetaA
+  228  cd talvez_aca/
+  229  ls
+  230  cd ejercicios/ejercicio_1
+  231  cd carpetaA
+  232  cd talvez_aca/
+  233  ls
+  234  cd ejercicios/ejercicio_1
+  235  cd ejercicios
+  236  clear
+  237  cd ejercicios/ejercicio_1
+  238  cd carpetaB
+  239  ls
+  240  cd ejercicios/ejercicio_1
+  241  ls
+  242  cd carpetaA
+  243  ls
+  244  cd talvez_aca/
+  245  ls
+  246  cd ..
+  247  cd carpetaB
+  248  ls
+  249  cd solution_1.1/
+  250  ls
+  251  cd ..
+  252  cd carpetaC
+  253  ls
+  254  ls a-
+  255  ls -a
+  256  cd ..
+  257  cd carpetaB
+  258  ls
+  259  source programa.sh
+  260  cd solution_1.1/
+  261  ls
+  262  ls -a
+  263  cd ..
+  264  cd carpetaC
+  265  ls
+  266  ls -l
+  267  cd ..
+  268  cd ejercicio_2
+  269  ls
+  270  less solution_2.1.txt
+  271  less solution_2.1.txt 
+  272  nano sexto_caracter
+  273  nano UTN
+  274  cd ..
+  275  cd ejercicio_3
+  276  ls
+  277  mkdir solucion
+  278  cp code1 solucion
+  279  ./programa.sh
+  280  cp -r code1 solucion
+  281  cp -r code2 solucion
+  282  ls -l solucion/*
+  283  less code1
+  284  cd solucion/
+  285  ls
+  286  cd code1
+  287  ls
+  288  less UIMGELGKBCUF.txt 
+  289  cd ..
+  290  cd code2
+  291  ls  
+  292  less ___+______+_.txt 
+  293  cd ..
+  294  cl ..
+  295  cd ..
+  296  cd data
+  297  ls
+  298  rm "y"
+  299  rm *y*
+  300  rm *Y*
+  301  ls
+  302  cd ..
+  303  cd ejercicio_4
+  304  diff ai.txt artificial_intelligence.txt
+  305  less elephant.txt | sort
+  306  grep fire satascience.txt
+  307  grep fire datascience.txt
+  308  cd ..
+  309  cd ejercicio_5
+  310  ls
+  311  unzip comprimido
+  312  tar -xf wrapped.tar
+  313  ls
+  314  cd solution/
+  315  ls
+  316  less solution.txt
+  317  less solution.txt.gz
+  318  cd ..
+  319  cd ejercicio_6
+  320  ls
+  321  ls -l
+  322  chmod a+x permissions.sh
+  323  ./permissions.sh
+  324  df
+  325  df --help
+  326  export GIVEME=ABCCHDEFGHIJKLMÑOPQRS
+  327  ls
+  328  env
+  329  echo $GIVEME
+  330  echo $GIVEME | wc -m
+  331  ping google.com
+  332  top
+  333  history > historial.txt
